@@ -6,3 +6,5 @@ Leveraging Python to clean, manipulate, and analyze data about fraudulent credit
 /notebook: Jupyter notebook used in my analysis
 
 /project report: Outlook on the project, explaining the thought process behind each step
+
+By: Jeremy Kamermayer
